@@ -55,5 +55,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+    "profile": {
+    "name": "user",
+      "account_balance":20000,
+      "user_id":1900
   }
 }
