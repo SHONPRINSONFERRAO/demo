@@ -108,5 +108,13 @@
     "name": "user",
       "account_balance":20000,
       "user_id":1900
-  }
+  },
+  "result": {
+    "status": "success",
+    "message": "",
+    "data": {
+        "imageUrl": "https://d9pnwvf8dvdgx.cloudfront.net/images/app/banners/airpano.jpg",
+        "actionUrl": "https://www.airpano.com/"
+    }
+}
 }
