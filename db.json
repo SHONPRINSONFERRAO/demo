@@ -116,5 +116,13 @@
         "imageUrl": "https://d9pnwvf8dvdgx.cloudfront.net/images/app/banners/airpano.jpg",
         "actionUrl": "https://www.airpano.com/"
     }
+},
+  "results": {
+    "status": "success",
+    "message": "",
+    "data": {
+        "imageUrl": "https://d9pnwvf8dvdgx.cloudfront.net/images/app/banners/airpano.jpg",
+        "actionUrl": "https://www.airpano.com/"
+    }
 }
 }
