@@ -121,5 +121,12 @@
     "status": "error",
     "message": "Ads.getStaticAds.error",
     "data": "Ads.getStaticAds.error"
-}
+},
+  "test":{
+ 
+    "status": "error",
+    "message": "Ads.getStaticAds.error",
+    "data": "Ads.getStaticAds.error"
+
+  }
 }
